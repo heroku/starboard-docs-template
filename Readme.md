@@ -2,6 +2,8 @@
 
 This repository is a small example of the format used by [starboard][1]
 
+Clone this repository and add your own onboarding/offboarding/crossboarding guides.
+
 ## What is the Documentation Repo format?
 
 It needs first a `data.json` file. This file is the core of the parser. It gives the documents needed per team and a few other metadata information.
