@@ -4,15 +4,18 @@
     "slug": "heroku-teams",
     "additional_paths": ["", "/extra"],
     "children": [
-        {
-            "id": "Engineering",
-            "slug": "engineering",
-            "children": []
-        },
-        {
-            "id": "Marketing",
-            "slug": "marketing"
-        },
+      {
+        "id": "Engineering",
+        "slug": "engineering",
+        "children": [
+          {"id": "Frontend", "slug": "backend"},
+          {"id": "Backend", "slug": "backend"}
+        ]
+      },
+      {
+        "id": "Marketing",
+        "slug": "marketing"
+      }
     ]
   },
   "lists_order": ["Pre-Hire", "First Day", "First Week", "First Month"]
