@@ -8,7 +8,7 @@
         "id": "Engineering",
         "slug": "engineering",
         "children": [
-          {"id": "Frontend", "slug": "backend"},
+          {"id": "Frontend", "slug": "frontend"},
           {"id": "Backend", "slug": "backend"}
         ]
       },
